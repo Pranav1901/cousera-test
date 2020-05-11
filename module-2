@@ -1,1 +1,41 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment Solution for Module 2</title>
+    <link rel="stylesheet" href="C:\Users\User\Desktop\style.css">
+	
+</head>
+<body>
+	<h1>Players Unknow BattelGround</h1>
+	 <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="Erangl">
+                <h2>Erangl</h2>
+                <p>
+                   Erangl is a commom map . This is avalible to each and every person
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="Vekendi">
+                <h2>Vekendi</h2>
+                <p>
+                    Vekendi is a cold Map.
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="Miramr">
+                <h2>Miramr</h2>
+                <p>
+                   MIrmar is a dry map. it is the 2nd map .intially slated to be 8x8km city centric map .it is a open map with <BR>
+                   plain desret and rural areas. development of this map began on july 2017.
+                </p>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
